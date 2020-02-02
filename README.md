@@ -7,3 +7,9 @@ Communication occurs via the RESTful implementation JAX-RS (consuming and produc
 A master template is used to implement the view using Primefaces components with Bootstrap themes and layout.
 
 
+### Todo
+Authentication (maybe with OAuth2.0) - and Security Roles
+docker-compose to link mariadb with payara (datasource config)
+Automated testing
+Additional JPA entities and relations
+Additional RESTful endpoints
