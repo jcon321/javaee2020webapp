@@ -8,8 +8,8 @@ A master template is used to implement the view using Primefaces components with
 
 
 ### Todo
-Authentication (maybe with OAuth2.0) - and Security Roles
-docker-compose to link mariadb with payara (datasource config)
-Automated testing
-Additional JPA entities and relations
-Additional RESTful endpoints
+* Authentication (maybe with OAuth2.0) - and Security Roles
+* docker-compose to link mariadb with payara (datasource config)
+* Automated testing
+* Additional JPA entities and relations
+* Additional RESTful endpoints
