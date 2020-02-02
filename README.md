@@ -1,6 +1,6 @@
 # Java EE - Web Application
 
-A custom Java EE web application with MVC design in mind built with Maven. 
+A custom Java EE web application, with MVC design in mind, built with Maven. 
 Persistence is done with JPA (using Hibernate) coupled with JTA transactions for CRUD operations.
 A Docker container for MariaDB is utilized during development.
 Communication occurs via the RESTful implementation JAX-RS (consuming and producing JSON) or by GUI via JSF. 
